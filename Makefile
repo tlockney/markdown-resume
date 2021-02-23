@@ -1,8 +1,11 @@
 resume.html: resume.md resume-css-stylesheet.css
-	pandoc -s --css resume-css-stylesheet.css --to=html5 -o resume.html resume.md
+	pandoc -s --css resume-css-stylesheet.css --to=html5 -o $@ $<
 
 resume.pdf: resume.html
-	wkhtmltopdf resume.html resume.pdf
+	wkhtmltopdf $< $@
 
-resume.docx: resume.md
-	pandoc -o resume.docx --reference-doc=resume-docx-reference.docx resume.md
+resume.docx: resume.md resume-docx-reference.docx
+	pandoc --reference-doc=resume-docx-reference.docx -o $@ $<
+
+clean:
+	rm -rf resume.html resume.pdf resume.docx
