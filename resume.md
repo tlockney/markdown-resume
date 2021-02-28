@@ -4,9 +4,9 @@
 
 Overview
 --------
-I am an engineering leader passionate about building great teams with a focus on autonomy and accountability. I’ve been working at Nike for almost seven years and have held both leadership and individual contributor positions as a software engineer and architect. 
+I am an engineering leader who is passionate about building great teams with a focus on autonomy and accountability. I am experienced at leading and mentoring engineers and managers and bring an extensive background building cloud-based distributed systems with a strong emphasis on DevOps culture.
 
-I'm also the host of the Nike Tech Talks, a highly successful event series showcasing world class subject matter experts from across the industry, an internal evangelist for and organizer of Nike’s open-source program, and a champion of building a strong and healthy engineering culture. In the past I have also organized technical conferences and founded multiple user group communities. 
+I'm also the host of the Nike Tech Talks, a highly successful event series showcasing world class subject matter experts from across the industry, an evangelist for and organizer of Nike’s open-source program, and a champion of building a strong and healthy engineering culture. In the past I have also organized conferences and founded user group communities as well as speaking at major industry conferences and special interest group events. 
 
 Accomplishments
 ---------------
@@ -15,6 +15,23 @@ Accomplishments
 * Managed four squads, including one offshore, focused on frontend and backend systems, handling career growth, performance reviews, and mentorship.
 * Led design, development, and ongoing support for major components of a fitness activity tracking platform.
 * Built out multiple highly successful teams. 
+
+Skills
+------
+
+###### Languages
+
+Java, Scala, JavaScript, Python
+
+
+###### Datastores
+
+DynamoDB, PostgreSQL, MySQL, Redis
+
+###### Architecture
+
+Akka, AWS, Microservice & Event-based Architecture, Distributed Systems
+
 
 Experience
 ---------
@@ -88,7 +105,7 @@ Built virtual seminar system. Developed integration strategy for a support autom
 Served as technical liaison between Marketing and IT. Built document publishing system, including integration with Interwoven TeamSite. Administered servers and dependent services. Wrote numerous utilities to support ongoing web development and administration work.
 
 
-Skills
-------
 
-Java, Scala, JavaScript, Python, Akka, AWS, Microservice & Event-based Architecture, Distributed Systems
+
+
+
