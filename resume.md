@@ -1,9 +1,8 @@
-# Thomas Lockney
-
 ###### thomas@lockney.net | 971-322-9408 | Lake Oswego, Oregon, United States
 
 Overview
 --------
+
 I am an engineering leader who is passionate about building great teams with a focus on autonomy and accountability. I am experienced at leading and mentoring engineers and managers and bring an extensive background building cloud-based distributed systems with a strong emphasis on DevOps culture.
 
 I'm also the host of the Nike Tech Talks, a highly successful event series showcasing world class subject matter experts from across the industry, an evangelist for and organizer of Nike’s open-source program, and a champion of building a strong and healthy engineering culture. In the past I have also organized conferences and founded user group communities as well as speaking at major industry conferences and special interest group events. 
@@ -21,7 +20,7 @@ Skills
 
  * **Languages**: Java, Scala, JavaScript, Python
  * **Datastores**: DynamoDB, PostgreSQL, MySQL, Redis
- * **Architecture**: Akka, AWS, Microservice & Event-based Architecture, Distributed Systems
+ * **Architecture**: Akka, AWS, Docker, Kubernetes, Microservice & Event-based Architecture, Distributed Systems
 
 
 Experience
