@@ -19,16 +19,16 @@ Accomplishments
 Skills
 ------
 
-###### Languages
+##### Languages
 
 Java, Scala, JavaScript, Python
 
 
-###### Datastores
+##### Datastores
 
 DynamoDB, PostgreSQL, MySQL, Redis
 
-###### Architecture
+##### Architecture
 
 Akka, AWS, Microservice & Event-based Architecture, Distributed Systems
 
