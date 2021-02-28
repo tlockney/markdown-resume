@@ -12,25 +12,16 @@ Accomplishments
 ---------------
 
 * Led the design and build out of a communications platform responsible for over $250m in attributable revenue.
-* Managed four squads, including one offshore, focused on frontend and backend systems, handling career growth, performance reviews, and mentorship.
-* Led design, development, and ongoing support for major components of a fitness activity tracking platform.
-* Built out multiple highly successful teams. 
+* Managed four squads, including one offshore, focused on frontend and backend systems, handling career growth, performance reviews, and mentorship. 
+* Led design, development, and ongoing support of a fitness activity tracking platform.
+* Built and led multiple highly successful teams and coached individual contributors, managers, and peers across engineering, program, and product functions. 
 
 Skills
 ------
 
-##### Languages
-
-Java, Scala, JavaScript, Python
-
-
-##### Datastores
-
-DynamoDB, PostgreSQL, MySQL, Redis
-
-##### Architecture
-
-Akka, AWS, Microservice & Event-based Architecture, Distributed Systems
+ * **Languages**: Java, Scala, JavaScript, Python
+ * **Datastores**: DynamoDB, PostgreSQL, MySQL, Redis
+ * **Architecture**: Akka, AWS, Microservice & Event-based Architecture, Distributed Systems
 
 
 Experience
