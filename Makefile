@@ -7,7 +7,7 @@ resume.pdf: resume.html
 	wkhtmltopdf --enable-local-file-access $< $@
 
 resume.docx: resume.md resume-docx-reference.docx
-	pandoc --reference-doc=resume-docx-reference.docx -o $@ $<
+	pandoc --reference-doc=resume-docx-reference.docx --metadata title="Thomas Lockney" -o $@ $<
 
 clean:
 	rm -rf resume.html resume.pdf resume.docx
