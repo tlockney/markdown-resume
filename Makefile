@@ -14,7 +14,7 @@ resume.docx: resume.md
 
 publish: resume.docx resume.pdf resume.html
 	mkdir -p dist
-	cp resume-css-stylesheet.css resume.docx resume.pdf dist
+	cp resume.docx resume.pdf dist
 	cp resume.html dist/index.html
 	git subtree push --prefix dist origin gh-pages
 
