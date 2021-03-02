@@ -3,16 +3,16 @@
 Overview
 --------
 
-I am an engineering leader who is passionate about building great teams with a focus on autonomy and accountability. I am experienced at leading and mentoring engineers and managers and bring an extensive background building cloud-based distributed systems with a strong emphasis on DevOps culture.
+I am an engineering leader who is passionate about building great teams with a focus on autonomy and accountability. Over the last seven years, I have led and mentored engineers and managers. I bring an extensive background building cloud-based distributed systems with a strong emphasis on DevOps culture
 
-I'm also the host of the Nike Tech Talks, a highly successful event series showcasing world class subject matter experts from across the industry, an evangelist for and organizer of Nike’s open-source program, and a champion of building a strong and healthy engineering culture. In the past I have also organized conferences and founded user group communities as well as speaking at major industry conferences and special interest group events. 
+Since 2015, I have hosted the Nike Tech Talks, a highly successful event series showcasing world class subject matter experts from across the industry. I am also the organizer of Nike’s open-source program, and a champion of building a strong and healthy engineering culture. I have organized two conferences (Pacific Northwest Scala) as well as founding and running multiple user group communities. And I have been an invited speaker at major industry conferences and special interest group events. 
 
 Accomplishments
 ---------------
 
-* Led the design and build out of a communications platform responsible for over $250m in attributable revenue.
+* Led the design and build out of a communications platform responsible for over $250M in attributable revenue.
 * Managed four squads, including one offshore, focused on frontend and backend systems, handling career growth, performance reviews, and mentorship. 
-* Led design, development, and ongoing support of a fitness activity tracking platform.
+* Led design, development, and ongoing support of a fitness activity tracking platform that scaled to handle Nike's global consumer ecosystem.
 * Built and led multiple highly successful teams and coached individual contributors, managers, and peers across engineering, program, and product functions. 
 
 Skills
@@ -30,7 +30,7 @@ Experience
 
 **Sr. Engineering Manager, Nike Communications Platform** Sep 2016 - Present
 
-Leading a cross-functional group of multiple teams to provide a unified, real-time communications platform. Established the early groundwork of the platform and helped define and drive the larger platform strategy. This is still a very active project with high business value.
+Leading a multiple teams across backend and frontend to provide a unified, real-time communications platform. Established the early groundwork of the platform and helped define and drive the larger platform strategy. This is still a very active project with a business value of at least $250M in attributable revenue. 
 
 **Engineering Manager, Nike+ Platform** Jun 2015 - Sep 2016
 
