@@ -16,4 +16,4 @@ publish: resume.docx resume.pdf resume.html
 	git subtree push --prefix dist origin gh-pages
 
 clean:
-	rm -rf resume.html resume.pdf resume.docx
+	rm -rf resume.html resume.pdf resume.docx dist
